@@ -1,0 +1,6 @@
+{
+  "name": "Campeonatos de Fútbol",
+  "description": "Plataforma para ver resultados, calendarios, tablas de posiciones y estadísticas detalladas de cada partido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
